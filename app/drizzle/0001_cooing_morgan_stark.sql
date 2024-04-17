@@ -1,0 +1,1 @@
+ALTER TABLE `movies` RENAME COLUMN `orignal_title` TO `original_title`;

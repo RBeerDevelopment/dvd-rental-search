@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1710916512421,
+      "tag": "0000_plain_wind_dancer",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1710917778443,
+      "tag": "0001_cooing_morgan_stark",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1710917891598,
+      "tag": "0002_classy_gateway",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1712342226858,
+      "tag": "0003_nappy_blazing_skull",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1712389887568,
+      "tag": "0004_noisy_whistler",
+      "breakpoints": true
+    }
+  ]
+}
